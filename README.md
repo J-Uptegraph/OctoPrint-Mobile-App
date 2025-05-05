@@ -2,7 +2,7 @@
 
 **OctoPrint Mobile** is a native iOS app built on top of the OctoPrint web interface. Developed in Swift, it allows users to remotely monitor, control, and manage 3D prints through their OctoPrint server. Designed for convenience and mobility, the app supports real-time printer status, remote login, file queueing, and printer controls from your iPhone or iPad.
 
-> ⚠️ This project is a personal project and **not** affiliated with or meant to compete with the official [OctoPrint project](https://octoprint.org/).  
+> ⚠️ This is a personal project and **not** affiliated with or meant to compete with the official [OctoPrint project](https://octoprint.org/).  
 > I built this app for my own personal use and programming practice. It is free, open-source, and I do not intend to monetize it.
 
 ---
