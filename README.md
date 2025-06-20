@@ -19,6 +19,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/bd0875fc-f12b-4c36-9107-15e738986260)
+
+
 ## Tech Stack
 
 - **Language**: Swift 5
@@ -30,6 +33,8 @@
 ---
 
 ## Login Logic Example
+
+![image](https://github.com/user-attachments/assets/982dde2d-59c5-46e0-b691-fe448f6213d7)
 
 ```swift
 func loginCredentials(username: String, password: String) {
